@@ -1,0 +1,7 @@
+:root{
+	--warnabackground: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+	--warnasekunder: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+html{
+	background-image:var(--warnabackground);
+}
